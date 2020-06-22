@@ -1,4 +1,4 @@
-<h1 align="center">Hierarchical Inter-Message Passing for Learning on Molecular Graphs</h1>
+<h2 align="center">Hierarchical Inter-Message Passing for Learning on Molecular Graphs</h2>
 
 <img width="100%" src="https://raw.githubusercontent.com/rusty1s/himp-gnn/master/overview.png" />
 
