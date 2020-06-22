@@ -1,6 +1,6 @@
-<h1 align="center">Hierarchical Inter-Message Passing for Learning on Molecular Graphs</h1>
+<h2 align="center">Hierarchical Inter-Message Passing for Learning on Molecular Graphs</h2>
 
-<img width="100%" src="https://raw.githubusercontent.com/rusty1s/deep-graph-matching-consensus/master/figures/overview.png?token=ABU7ZATGTDHG6DPI3ANYBUS5TXPOQ" />
+<img width="100%" src="https://raw.githubusercontent.com/rusty1s/himp-gnn/master/overview.png" />
 
 --------------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Matthias Fey, Jan-Gin Yuen, Frank Weichert: [Hierarchical Inter-Message Passing 
 * **[PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric)** (>=1.5.0)
 * **[OGB](https://ogb.stanford.edu/)** (>=1.1.0)
 
-## Running examples
+## Experiments
 
 Experiments can be run via:
 
