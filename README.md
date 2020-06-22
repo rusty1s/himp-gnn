@@ -14,7 +14,7 @@ Matthias Fey, Jan-Gin Yuen, Frank Weichert: [Hierarchical Inter-Message Passing 
 * **[PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric)** (>=1.5.0)
 * **[OGB](https://ogb.stanford.edu/)** (>=1.1.0)
 
-## Running examples
+## Experiments
 
 Experiments can be run via:
 
