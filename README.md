@@ -1,6 +1,6 @@
 <h1 align="center">Hierarchical Inter-Message Passing for Learning on Molecular Graphs</h1>
 
-<img width="100%" src="https://raw.githubusercontent.com/rusty1s/deep-graph-matching-consensus/master/figures/overview.png?token=ABU7ZATGTDHG6DPI3ANYBUS5TXPOQ" />
+<img width="100%" src="https://raw.githubusercontent.com/rusty1s/himp-gnn/master/overview.png" />
 
 --------------------------------------------------------------------------------
 
