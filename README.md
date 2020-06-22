@@ -36,7 +36,7 @@ Please cite [our paper]() if you use this code in your own work:
 @inproceedings{Fey/etal/2020,
   title={Hierarchical Inter-Message Passing for Learning on Molecular Graphs},
   author={Fey, M. and Yuen, J. G. and Weichert, F.},
-  booktitle={Graph Representation Learning and Beyond (GRL+) Workhop at ICML 2020},
+  booktitle={ICML Graph Representation Learning and Beyond (GRL+) Workhop},
   year={2020},
 }
 ```
