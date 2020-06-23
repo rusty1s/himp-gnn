@@ -6,7 +6,7 @@
 
 This is a PyTorch implementation of **Hierarchical Inter-Message Passing for Learning on Molecular Graphs**, as described in our paper:
 
-Matthias Fey, Jan-Gin Yuen, Frank Weichert: [Hierarchical Inter-Message Passing for Learning on Molecular Graphs]() *(GRL+ 2020)*
+Matthias Fey, Jan-Gin Yuen, Frank Weichert: [Hierarchical Inter-Message Passing for Learning on Molecular Graphs](https://arxiv.org/abs/2006.12179) *(GRL+ 2020)*
 
 ## Requirements
 
@@ -30,7 +30,7 @@ $ python train_ogbpcba.py
 
 ## Cite
 
-Please cite [our paper]() if you use this code in your own work:
+Please cite [our paper](https://arxiv.org/abs/2006.12179) if you use this code in your own work:
 
 ```
 @inproceedings{Fey/etal/2020,
