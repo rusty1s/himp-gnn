@@ -92,7 +92,7 @@ def test(loader):
             rocauc_list.append(
                 roc_auc_score(y_true[is_labeled, i], y_pred[is_labeled, i]))
 
-    return {"rocauc": sum(rocauc_list) / len(rocauc_list)}
+    return sum(rocauc_list) / len(rocauc_list)
 
 
 test_perfs = []
